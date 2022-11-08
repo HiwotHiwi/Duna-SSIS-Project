@@ -9,7 +9,7 @@
         <WinAuthUserName />
         <WinAuthDomain />
         <ServerName>DESKTOP-BEOHKBO\HIWIKONJO</ServerName>
-        <PathOnServer>/SSISDB/QL_SSIS_PKG/QL_Hiwot_Zewdie_SSIS_Packages</PathOnServer>
+        <PathOnServer>/SSISDB/QL_Hiwot_Zewdie_ETL/QL_Hiwot_Zewdie_SSIS_Packages</PathOnServer>
         <Run64BitRuntime>false</Run64BitRuntime>
         <UserIDs />
         <UserPasswords />

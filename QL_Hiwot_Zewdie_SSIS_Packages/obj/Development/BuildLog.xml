@@ -2,7 +2,7 @@
 <BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ProjectInfo>
     <Name>QL_Hiwot_Zewdie_SSIS_Packages</Name>
-    <LastWriteTime>2022-10-28T00:41:21.8702988Z</LastWriteTime>
+    <LastWriteTime>2022-11-08T00:25:22.4993192Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
@@ -12,28 +12,28 @@
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
-      <Name>Pkg_Hiwot_Zewdie_LendingWise.dtsx</Name>
-      <LastWriteTime>2022-10-28T15:56:38.8836202Z</LastWriteTime>
-      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
-    </ProjectBuildItemInfo>
-    <ProjectBuildItemInfo>
       <Name>Pkg_Hiwot_Zewdie_Quicken_Loans_Master.dtsx</Name>
       <LastWriteTime>2022-09-07T02:01:48.178781Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>Pkg_Hiwot_Zewdie_QuickenLoan.dtsx</Name>
-      <LastWriteTime>2022-09-07T02:03:06.7876202Z</LastWriteTime>
+      <LastWriteTime>2022-11-08T00:25:22.4508561Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>Pkg_Hiwot_Zewdie_LendingQB.dtsx</Name>
-      <LastWriteTime>2022-10-28T01:26:52.9041822Z</LastWriteTime>
+      <LastWriteTime>2022-11-04T00:11:21.0152198Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>Pkg_Underwriter.dtsx</Name>
       <LastWriteTime>2022-10-13T23:42:43.8701218Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Pkg_Hiwot_Zewdie_LendingWise.dtsx</Name>
+      <LastWriteTime>2022-11-03T23:21:13.2310142Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
   </LastBuildInfos>
