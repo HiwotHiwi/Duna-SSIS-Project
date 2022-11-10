@@ -2,7 +2,7 @@
 <BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ProjectInfo>
     <Name>QL_Hiwot_Zewdie_SSIS_Packages</Name>
-    <LastWriteTime>2022-11-08T00:25:22.4993192Z</LastWriteTime>
+    <LastWriteTime>2022-11-10T00:18:56.7266002Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
@@ -23,7 +23,7 @@
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>Pkg_Hiwot_Zewdie_LendingQB.dtsx</Name>
-      <LastWriteTime>2022-11-04T00:11:21.0152198Z</LastWriteTime>
+      <LastWriteTime>2022-11-10T00:21:04.39331Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
@@ -33,7 +33,7 @@
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>Pkg_Hiwot_Zewdie_LendingWise.dtsx</Name>
-      <LastWriteTime>2022-11-03T23:21:13.2310142Z</LastWriteTime>
+      <LastWriteTime>2022-11-10T00:18:56.6776885Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
   </LastBuildInfos>

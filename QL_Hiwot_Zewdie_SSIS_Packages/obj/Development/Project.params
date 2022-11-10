@@ -59,7 +59,7 @@
         SSIS:Name="Sensitive">1</SSIS:Property>
       <SSIS:Property
         SSIS:Name="Value"
-        SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAoiP5uK5RQ0+VSzODhdyXVAAAAAACAAAAAAAQZgAAAAEAACAAAABfP25R73iH4dBhJ3RAEYtiRepTsiyCmPb8mR7INvaC9wAAAAAOgAAAAAIAACAAAACXyMYf/ygszuW3OZ2hmAW4ghi/RBnzxRHpJj1MvehFepAAAACXd4+IbbXF7U/3Jd18yGHYSW0XVAE6IF+9WI5Lx3RpNY73zxtwQ8tW0IPftH8fFSHuxJKWE0Q0chzQqwSVk/YWoALvcNAI7B7qFLkI91e7i/PZkMXzx20tDlRfoLG/zRMq//eMaj80lGNG0BXEt7yWmot+7f23D0Rp57PdAj7VkYbneNbyDBsVu3ehjPwngTVAAAAALkO93gbL9OgY5/yH9jEDZpR/qhlzQ2+s1FcsrCLBSWtpqTDNhpubqw+iMZUVXRokBtlyV3bO/ZdPZ995jthUVw==</SSIS:Property>
+        SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAoiP5uK5RQ0+VSzODhdyXVAAAAAACAAAAAAAQZgAAAAEAACAAAADLRvViJx44yDlv+Nc/Jwqntr/o/bcDa7W/OZGoDUUb1gAAAAAOgAAAAAIAACAAAAAgHjcHAz5tfI9TGJbAqWK6la+LRRVaSiR+RgGwxoo2spAAAADW+vE1yuetUKhI/hJd7RVjSqaqBMGP7lq/YPV1cRlXvSE20m94kBhG694lDs2gpUsNR9QCMFTO4UPTjejjhYHfyPVvtXxh5xGUcxsdxyv/i7ezY5BEYt6AXY2MzmkmvRERpHYnX9B7JV7bhhQheYn0G7aFW4H1iEpEQ0rnuthmivFBekk5jw0Mn7dwl7hFTF5AAAAAX4JLOLW+kdqTzxTzTT+yGsoWKsa6KrYNbLmX7OPJNkRQ1Fh/4pCA1PwS6OxJ1tvxCfzkoeTZMmw82Zxio7BoOA==</SSIS:Property>
       <SSIS:Property
         SSIS:Name="DataType">18</SSIS:Property>
     </SSIS:Properties>
@@ -81,7 +81,7 @@
         SSIS:Name="Sensitive">1</SSIS:Property>
       <SSIS:Property
         SSIS:Name="Value"
-        SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAoiP5uK5RQ0+VSzODhdyXVAAAAAACAAAAAAAQZgAAAAEAACAAAAA2rvzyTAc/F9OMDxoNMNB7PGSbGrl1f2Xyz57dpVcr4AAAAAAOgAAAAAIAACAAAADKqkaA9gfF5gu6BG6RHEZuh1PuI9AB0d9Ef0oJlbL/xoAAAAAqUQd0aNc1a6oUpCkM69HT5p5DZOi1hWwLeN0hPKWwWNgyS+GfXl+bstj6qyyv//BHfvs3187UtmQqnKmanDikwhfmHbA7vMGqMn4KjgJ03/XqE86tJBtXQvxgt21TWCDWlwfdNv3Da7Qs4u0pbL8EyYzwEvcXw39zC9yVCbr95kAAAADOgv1Wr2eSKlrAkJ1ajBUFTcy1zDBd+kQb6lWJITrbY5KnSzSU+inrhLlyMBVb/aLLgd6vmIYUXkjx+IZQsGXX</SSIS:Property>
+        SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAoiP5uK5RQ0+VSzODhdyXVAAAAAACAAAAAAAQZgAAAAEAACAAAADQOLpf2Ost+JhRjfKsnu8vCQRjlqPoOYWpzJCl2ouhCwAAAAAOgAAAAAIAACAAAAAyUOTk29TKVwV1Hs/Una4jz8Vzw/hwpx6A3nor1n9QaIAAAAA9pT+7iVoaewMKvXlPOpXD2OMIKoyX7iTRAtXwIvSkymqllLjHHKHF7mG9Fko7iKNjCudiQr0GY++pWCGXZpqK/1Hp+ZFwh06zGq72kXgXx+6nP5oKajSjlFPoIX4bTe42Nw28o/cC9Rtcj0lcT0QdRr16+8L/NK4DYbSoki73SkAAAADPJdrgEeO6EpDG7jH2eNaweFpO/UBP/C+9LSrO4E359MUgjkJE162pMQ8PLDVl1FhOvTMhDWBtEB1G4xAf2M+0</SSIS:Property>
       <SSIS:Property
         SSIS:Name="DataType">18</SSIS:Property>
     </SSIS:Properties>
@@ -103,6 +103,27 @@
         SSIS:Name="Sensitive">0</SSIS:Property>
       <SSIS:Property
         SSIS:Name="Value">hiwiteam3@gmail.com</SSIS:Property>
+      <SSIS:Property
+        SSIS:Name="DataType">18</SSIS:Property>
+    </SSIS:Properties>
+  </SSIS:Parameter>
+  <SSIS:Parameter
+    SSIS:Name="OAuth1_ConnectionString">
+    <SSIS:Properties>
+      <SSIS:Property
+        SSIS:Name="ID">{cfd9f270-092d-4e90-b2fe-0c2955c4fbd7}</SSIS:Property>
+      <SSIS:Property
+        SSIS:Name="CreationName"></SSIS:Property>
+      <SSIS:Property
+        SSIS:Name="Description"></SSIS:Property>
+      <SSIS:Property
+        SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
+      <SSIS:Property
+        SSIS:Name="Required">0</SSIS:Property>
+      <SSIS:Property
+        SSIS:Name="Sensitive">0</SSIS:Property>
+      <SSIS:Property
+        SSIS:Name="Value">Provider=GoogleSheets;OAuthVersion=Default;ScopeSeparator={space};ReturnUrl=;ExtraAttributesForTokenRequest=;ExtraAttributesForAuthRequest=;TokenRefreshMode=Default;SslVersion=Default;Prop1Name=;Prop1Value=;Prop2Name=;Prop2Value=;GrantType=Default;UserName=;DoNotIncludeCredentialsInHeader=False;DoNotIncludeCredentialsInBody=False;DoNotIncludeEmptyParamsInSignature=False;SignatureMethod=;ContentType=;ExpiresInAttribute=;AccessTokenAttrName=;RenewBeforeSec=0;AuthUrl=;TokenUrl=;RequestTokenUrl=;ClientId=708637974194-mva19l53o5gs6rb8p6l3vpmmf4ijgoli.apps.googleusercontent.com;Scope=https://www.googleapis.com/auth/drive https://www.googleapis.com/auth/drive.file https://www.googleapis.com/auth/drive.readonly https://www.googleapis.com/auth/spreadsheets https://www.googleapis.com/auth/spreadsheets.readonly;Timeout=100000;UseCustomApp=True;CustomAuthHeader=;CustomTokenPrefix=;EnableOAuthOverUrl=False;RefreshTokenFilePath=;RetryMode=None;RetryCountMax=3;RetryWaitTimeMs=2000;RetryMultiplyWaitTime=False;RetryMessageList=;RetryStatusCodeList=;RetainSameConnection=False;UseClientCertificate=False;CertificatePath=;CertificateStorageType=CurrentUser;CertificateStoreName=My;CertificateThumbprint=;UseProxy=False;ProxyUrl=;UseProxyCreds=False;ProxyUserName=;DoNotUseDefaultProxy=False</SSIS:Property>
       <SSIS:Property
         SSIS:Name="DataType">18</SSIS:Property>
     </SSIS:Properties>

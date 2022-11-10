@@ -63,7 +63,7 @@
       DTS:Namespace="User"
       DTS:ObjectName="VarBody">
       <DTS:VariableValue
-        DTS:DataType="8">Pkg_Hiwot_Zewdie_LendingQB_Fail_on_2022-11-07.txt</DTS:VariableValue>
+        DTS:DataType="8">Pkg_Hiwot_Zewdie_LendingQB_Fail_on_2022-11-09.txt</DTS:VariableValue>
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
